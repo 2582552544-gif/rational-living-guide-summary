@@ -4,6 +4,8 @@
 
 ## 第一部分：理解情绪如何产生
 
+![第一部分：理解情绪如何产生](assets/images/part-1-emotion-mechanism.png)
+
 * [第1章：你可以在多大程度上依赖自我治疗](chapters/ch01.md)
 * [第2章：你的感觉在很大程度上依赖于你的思考方式](chapters/ch02.md)
 * [第3章：通过清晰的思考获得良好的感觉](chapters/ch03.md)
@@ -11,6 +13,8 @@
 * [第5章：通过思考使自己摆脱情绪困扰](chapters/ch05.md)
 
 ## 第二部分：拆除自我困扰循环
+
+![第二部分：拆除自我困扰循环](assets/images/part-2-belief-loops.png)
 
 * [第6章：发现并减少神经质行为](chapters/ch06.md)
 * [第7章：克服过去的影响](chapters/ch07.md)
@@ -23,6 +27,8 @@
 
 ## 第三部分：焦虑、自律与个人历史
 
+![第三部分：焦虑、自律与个人历史](assets/images/part-3-action-practice.png)
+
 * [第14章：控制你自己的情绪命运](chapters/ch14.md)
 * [第15章：征服焦虑和恐慌](chapters/ch15.md)
 * [第16章：实现自律](chapters/ch16.md)
@@ -31,6 +37,8 @@
 * [第19章：克服惯性，形成创造性的专注](chapters/ch19.md)
 
 ## 第四部分：综合方法、证据与长期改变
+
+![第四部分：综合方法、证据与长期改变](assets/images/part-4-evidence-long-term.png)
 
 * [第20章：过上美好生活的其他理性方法](chapters/ch20.md)
 * [第21章：过上美好生活的其他情绪和行为方法](chapters/ch21.md)

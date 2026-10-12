@@ -2,6 +2,10 @@
 
 ![《理性生活指南》视觉主图](./assets/images/site-hero.png)
 
+<div align="center">
+  <img src="./assets/images/book-cover.png" alt="《理性生活指南》书籍封面插图" width="420" />
+</div>
+
 《理性生活指南》（原书第3版）的23章学习总结。每一章均由一个独立 Agent 完整阅读对应原章后总结。
 
 每章重点包含：具体场景、第一性原理与因果链、普林斯顿式思维路径、反事实与边界检验、常见误解、可执行练习和一句话触发器。
