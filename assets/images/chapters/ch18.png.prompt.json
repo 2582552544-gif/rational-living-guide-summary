@@ -1,0 +1,12 @@
+{
+  "created_at": "2026-10-12T10:53:09.473036+08:00",
+  "client": "local-openai-compatible",
+  "endpoint": "http://127.0.0.1:8317/v1/images/generations",
+  "model": "gpt-image-2.5-flare",
+  "prompt": "A wide 9:4 minimalist editorial psychology illustration on a single pale stone-blue background. A large immovable coral geometric boulder occupies one side of the composition, visibly cracked but stable, with no suggestion that it will disappear. A faceless adult sits briefly beside it, then uses a small muted teal channel piece to guide a thin stream around the boulder toward one modest open vessel nearby. The surreal metaphor is accepting an irreversible hard fact while directing remaining capacity toward one bounded action; sadness, dependence, rest, and limited resources remain legitimate. Flat two-dimensional vector illustration, thin deep navy outlines, simple geometry, accents limited to muted teal and soft coral, very generous negative space, quiet humane non-heroic tone. No text, letters, numbers, logos, watermarks, gradients, photorealism, cinematic lighting, complex scenery, mountains, sunrise, glowing horizon, victory symbolism, facial features, or decorative clutter.",
+  "size": "1536x682",
+  "quality": "",
+  "output_format": "png",
+  "watermark": false,
+  "n": 1
+}

@@ -1,0 +1,60 @@
+{
+  "research_basis": [
+    "https://www.jiandanxinli.com/materials/520",
+    "https://www.jiandanxinli.com",
+    "https://www.xinli001.com/publishedbooks",
+    "http://www.knowyourself.cc",
+    "https://www.rmcad.edu/blog/illustration-for-mental-health-awareness-visualizing-the-human-experience"
+  ],
+  "design_principles": {
+    "direction": "Original minimalist psychology editorial illustration informed by general traits observed across Simple Psychology, Yixinli, KnowYourself and Western mental-health editorial design; do not copy any existing image, mascot, composition or brand identity.",
+    "rules": [
+      "One image communicates one psychological mechanism",
+      "Flat two-dimensional illustration, no cinematic scenery",
+      "White or single pale pastel background with generous negative space",
+      "One simplified faceless adult or at most two figures",
+      "Basic geometric shapes and one surreal object metaphor",
+      "Restricted palette of two to four colors",
+      "No text, letters, numbers, logos or watermarks",
+      "Quiet, intelligent, emotionally restrained rather than inspirational"
+    ]
+  },
+  "images": [
+    {
+      "id": "book-cover",
+      "filename": "book-cover.png",
+      "size": "1024x1536",
+      "prompt": "Vertical 2:3 minimalist psychology book-cover illustration, original design. Plain warm ivory background with abundant empty space for later typography. A single simplified faceless adult sits calmly on the lower edge of a large thin navy circle. Inside the circle is one tangled coral line; one end of the line passes through the person's hands and becomes a straight teal line leading outward. Flat two-dimensional editorial vector illustration, subtly hand-drawn contours, simple rounded shapes, no realistic anatomy, no cinematic environment, no gradients, no shadows, no texture-heavy painting. Restricted palette: warm ivory, deep navy, coral, muted teal. Quiet, intelligent, emotionally restrained. No text, letters, numbers, logos, watermark, brain, heart, puzzle pieces, compass, sunrise, mountains or therapy couch."
+    },
+    {
+      "id": "site-hero",
+      "filename": "site-hero.png",
+      "size": "1536x682",
+      "prompt": "Wide minimalist psychology editorial hero, approximately 9:4. Plain pale warm-gray background, large negative space. One simplified faceless adult stands near the center holding a transparent square frame in front of an ambiguous small black dot; through the frame the dot separates into three possible simple shapes, showing that interpretation changes meaning. A second tiny path line begins near the person's feet and becomes clearer toward the right. Flat two-dimensional illustration, clean thin navy outlines, simplified geometry, a few coral and muted teal accents, no detailed scenery, no cinematic lighting, no realism, no decorative clutter. Original visual metaphor, calm and intellectually approachable. No text, letters, numbers, logos, watermarks, brain icons, mountains, staircases or stock-art look."
+    },
+    {
+      "id": "part-1-emotion-mechanism",
+      "filename": "part-1-emotion-mechanism.png",
+      "size": "1536x682",
+      "prompt": "Wide minimalist psychology article illustration, approximately 9:4. White background. A single neutral event is shown as one small black circle on the left. In the center a simple translucent triangular lens held by a faceless seated adult refracts that circle into three different colored shapes on the right: coral jagged shape, muted blue droplet, soft yellow oval. The person's body remains simple and calm, indicating event, interpretation, emotion. Flat vector-like 2D design, thin hand-drawn navy lines, highly simplified anatomy, large negative space, only four colors, no scenery, no cinematic depth, no text, no labels, no letters, no logos or watermark."
+    },
+    {
+      "id": "part-2-belief-loops",
+      "filename": "part-2-belief-loops.png",
+      "size": "1536x682",
+      "prompt": "Wide minimalist psychology article illustration, approximately 9:4. Very pale pink background. A simplified faceless adult walks around a thin circular track drawn as one continuous navy line. The line passes through three small symbolic stations: a phone, a closed door, and a pointing hand, then returns to the starting point. The person pauses and lifts one detachable coral segment from the loop, creating a small opening. Flat two-dimensional editorial illustration, clean geometric shapes, restrained navy, coral and dusty pink palette, huge negative space, one clear metaphor, no realistic scene, no cinematic lighting, no text, letters, logos, watermark, puzzle pieces or complex background."
+    },
+    {
+      "id": "part-3-action-practice",
+      "filename": "part-3-action-practice.png",
+      "size": "1536x682",
+      "prompt": "Wide minimalist psychology article illustration, approximately 9:4. Pale blue background. A simplified faceless adult sits inside a soft rounded square comfort zone on the left, then extends one foot onto a small coral stepping block just outside it. Only three modest blocks lead toward a simple teal doorway on the right; the destination remains ordinary and close, not heroic. Flat 2D editorial vector style, thin navy outlines, basic rounded geometry, very limited palette, generous empty space, calm and practical emotional tone. No detailed room, no landscape, no cinematic lighting, no text, numbers, logos, watermark, mountains, sunrise or motivational poster style."
+    },
+    {
+      "id": "part-4-evidence-long-term",
+      "filename": "part-4-evidence-long-term.png",
+      "size": "1536x682",
+      "prompt": "Wide minimalist psychology article illustration, approximately 9:4. Warm off-white background. A simplified faceless adult kneels beside three small potted plants arranged left to right. One plant is bent, one has a new leaf after being cut back, and one is steadily growing. The person uses a simple ruler and notebook with blank surfaces, while a thin path behind the pots forms a gentle spiral moving forward rather than a closed circle. Flat two-dimensional editorial design, clean hand-drawn navy outlines, muted teal, coral and soft yellow accents, ample negative space, one clear metaphor for evidence, recurrence and long-term change. No text, letters, numbers, charts, logos, watermark, detailed garden, cinematic scenery or realism."
+    }
+  ]
+}

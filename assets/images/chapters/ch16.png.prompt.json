@@ -1,0 +1,12 @@
+{
+  "created_at": "2026-10-12T10:52:20.469336+08:00",
+  "client": "local-openai-compatible",
+  "endpoint": "http://127.0.0.1:8317/v1/images/generations",
+  "model": "gpt-image-2.5-flare",
+  "prompt": "A wide 9:4 minimalist editorial psychology illustration on a single pale mint background. A faceless adult stands between a soft coral cushion and three small navy task blocks. Above them floats one surreal muted teal reward orb that is magnetically pulled toward the cushion; the person calmly moves a simple curved rail so the orb now travels alongside the first task block instead. Only the first block is close and reachable, with the remaining blocks small and widely spaced. The metaphor is redesigning immediate reward so a valued action becomes easier to start, without glorifying suffering, harsh discipline, or willpower. Flat two-dimensional vector design, thin deep navy outlines, elementary rounded geometry, accent colors limited to muted teal and soft coral, large negative space, practical compassionate psychology-article tone. No text, letters, numbers, logos, watermarks, gradients, cinematic lighting, realistic room, gym scene, landscape, heroic staircase, facial features, punishment imagery, or decorative clutter.",
+  "size": "1536x682",
+  "quality": "",
+  "output_format": "png",
+  "watermark": false,
+  "n": 1
+}

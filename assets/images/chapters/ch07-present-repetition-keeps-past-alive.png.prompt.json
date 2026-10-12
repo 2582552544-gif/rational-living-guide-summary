@@ -1,0 +1,12 @@
+{
+  "created_at": "2026-10-12T10:48:37.626916+08:00",
+  "client": "local-openai-compatible",
+  "endpoint": "http://127.0.0.1:8317/v1/images/generations",
+  "model": "gpt-image-2.5-flare",
+  "prompt": "Wide 9:4 minimalist psychology editorial illustration. Plain warm off-white background with abundant negative space. One simplified faceless adult stands near the center. A thin faded navy line enters from a small distant doorway at the far left, circles the adult's ankle in a repeated loop, then returns toward the doorway; the adult calmly opens one small coral clasp in the loop, allowing the same line to continue forward as a straight teal path toward the right. Show that the past remains influential through a present-day repeating mechanism that can be interrupted, without erasing the past. Flat 2D vector-like design, highly simplified adult anatomy, black and deep navy fine outlines, restrained coral, muted teal and soft yellow accents, one clear low-complexity metaphor, quiet professional mental-health editorial tone. No text, letters, numbers, logo, watermark, brain, heart, puzzle pieces, cinematic lighting, realism, gradients, shadows, detailed room, landscape or complex scene. Original composition, not based on any existing brand artwork.",
+  "size": "1536x682",
+  "quality": "",
+  "output_format": "png",
+  "watermark": false,
+  "n": 1
+}

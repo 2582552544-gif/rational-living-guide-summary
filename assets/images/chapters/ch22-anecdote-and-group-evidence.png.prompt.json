@@ -1,0 +1,12 @@
+{
+  "created_at": "2026-10-12T10:54:46.579277+08:00",
+  "client": "local-openai-compatible",
+  "endpoint": "http://127.0.0.1:8317/v1/images/generations",
+  "model": "gpt-image-2.5-flare",
+  "prompt": "Wide 9:4 minimalist psychology editorial illustration on a clean white background with extensive negative space. One simplified faceless adult carefully places a single coral marble into a broad transparent shallow bowl already containing many separated muted-teal marbles; the lone coral marble remains clearly visible and valuable, but the stable bowl is shaped by the full collection, distinguishing personal experience from group evidence. Use one action and one physical metaphor only, not a chart or data dashboard. Flat vector-like 2D design, mature and intellectually restrained, thin deep-navy outlines, minimal coral, muted teal, and soft yellow accents, simple geometric forms. No text, numbers, letters, logos, watermarks, labels, axes, complex infographic, realism, cinematic scenery, brain, heart, puzzle pieces, laboratory clutter, cute styling, or composition copied from an existing brand.",
+  "size": "1536x682",
+  "quality": "",
+  "output_format": "png",
+  "watermark": false,
+  "n": 1
+}

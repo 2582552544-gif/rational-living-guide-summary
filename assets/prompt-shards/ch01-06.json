@@ -1,0 +1,50 @@
+[
+  {
+    "chapter": 1,
+    "id": "ch01",
+    "filename": "ch01.png",
+    "size": "1536x682",
+    "concept": "把理解转化为带反馈的自我校准循环",
+    "prompt": "A wide 9:4 minimalist editorial psychology illustration on a warm white background. A faceless adult sits beside a simple circular path made of three thin geometric segments; one segment is subtly misaligned. The person uses a small external calibration frame to rotate that single segment into place, allowing one small sphere to continue around the loop. The surreal metaphor is a thought process becoming a self-correcting track rather than a finished insight. Flat two-dimensional vector art, basic circles and rounded rectangles, restrained palette of muted navy, soft coral, and pale beige, generous negative space, calm professional Chinese psychology-education visual language, precise balanced composition. No text, letters, numbers, logos, watermarks, gradients, cinematic lighting, landscapes, sunrise, complex architecture, realism, facial features, or decorative clutter."
+  },
+  {
+    "chapter": 2,
+    "id": "ch02",
+    "filename": "ch02.png",
+    "size": "1536x682",
+    "concept": "在事件与感觉之间辨认并调整解释",
+    "prompt": "A wide 9:4 minimalist editorial psychology illustration on a single very pale blue background. On the far left, one small neutral gray circle represents an external event; in the center, a faceless adult gently rotates a transparent geometric filter; on the right, the same incoming line emerges as a softer curved blue form instead of a sharp red zigzag. The surreal metaphor is interpretation acting as an adjustable lens between reality and emotion, without erasing the event. Flat two-dimensional vector design, simple geometry, only slate blue, muted red, gray, and background color, abundant empty space, crisp professional psychology-article aesthetic. No text, letters, numbers, logos, watermarks, gradients, shadows, cinematic light, landscapes, buildings, photorealism, facial details, or busy infographic elements."
+  },
+  {
+    "chapter": 3,
+    "id": "ch03",
+    "filename": "ch03.png",
+    "size": "1536x682",
+    "concept": "保留有用情绪，同时降低其破坏性失真",
+    "prompt": "A wide 9:4 minimalist editorial psychology illustration on a clean off-white background. A faceless adult adjusts one simple horizontal dial connected to a large jagged emotional wave; beyond the dial the wave remains strong and visible but becomes smooth, rhythmic, and usable, ending in a small forward-moving circle. The surreal metaphor is not muting emotion but tuning destructive turbulence into functional energy. Flat two-dimensional vector art, elementary lines, circles, and rounded blocks, limited palette of deep teal, warm orange, pale cream, and charcoal, very large negative space, composed and intelligent psychology-publication style. No words, letters, numbers, logos, watermarks, gradients, dramatic lighting, scenery, sunrise, architecture, realistic anatomy, facial features, or ornamental detail."
+  },
+  {
+    "chapter": 4,
+    "id": "ch04",
+    "filename": "ch04.png",
+    "size": "1536x682",
+    "concept": "区分情绪的最初点火与后续认知添柴",
+    "prompt": "A wide 9:4 minimalist editorial psychology illustration on a single pale sand background. A tiny coral spark sits at one end of a looping geometric conveyor; repeated dark blocks travel around the loop and enlarge the spark into an oversized angular flame shape. A faceless adult calmly lifts one block out of the conveyor, breaking the feedback loop while the original small spark remains. The surreal metaphor is stopping repeated evaluation from continually fueling an already real emotional reaction. Flat two-dimensional vector style, basic geometry, only coral, dark blue-gray, pale sand, and white, generous negative space, clean professional mental-health article composition. No text, letters, numbers, logos, watermarks, gradients, cinematic shadows, landscapes, buildings, photorealism, facial details, or complex machinery."
+  },
+  {
+    "chapter": 5,
+    "id": "ch05",
+    "filename": "ch05.png",
+    "size": "1536x682",
+    "concept": "把一次行为评价从整个人的价值判决中分离出来",
+    "prompt": "A wide 9:4 minimalist editorial psychology illustration on a warm white background. A large calm circular outline represents a whole person; a faceless adult carefully removes one small irregular dark tile from its edge and places it on a simple repair tray, while the larger circle stays open, intact, and unjudged. The surreal metaphor separates one flawed action from the total value of a human being. Flat two-dimensional vector art, basic circles and blocks, restrained palette of muted indigo, dusty rose, soft gray, and cream, extensive negative space, sober professional psychology-education aesthetic. No text, letters, numbers, logos, watermarks, gradients, cinematic light, landscapes, sunrise, architecture, realistic portraiture, facial features, moral symbols, or visual clutter."
+  },
+  {
+    "chapter": 6,
+    "id": "ch06",
+    "filename": "ch06.png",
+    "size": "1536x682",
+    "concept": "识别短期缓解的自我挫败循环，并执行最小反向行动",
+    "prompt": "A wide 9:4 minimalist editorial psychology illustration on a single very pale mint background. A faceless adult stands on a small circular track that repeatedly returns to a soft enclosed shelter; the person places one simple rectangular bridge across the loop and takes a single step toward an open forward path. The surreal metaphor is leaving a short-term relief cycle through one deliberate opposite action, not through a dramatic leap. Flat two-dimensional vector design, elementary circles, arcs, and rectangles, limited palette of forest green, muted coral, charcoal, and pale mint, abundant negative space, precise professional psychology-article visual language. No text, letters, numbers, logos, watermarks, gradients, film lighting, mountains, sunrise, complex buildings, realism, facial detail, crowds, or decorative clutter."
+  }
+]

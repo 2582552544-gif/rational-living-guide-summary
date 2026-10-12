@@ -1,0 +1,12 @@
+{
+  "created_at": "2026-10-12T10:50:21.184319+08:00",
+  "client": "local-openai-compatible",
+  "endpoint": "http://127.0.0.1:8317/v1/images/generations",
+  "model": "gpt-image-2.5-flare",
+  "prompt": "Wide 9:4 minimalist psychology editorial illustration. Plain warm off-white background with extensive negative space. One simplified faceless adult kneels beside a small platform made of a few large outlined tiles. One coral tile is visibly cracked; the adult carefully lifts and replaces only that tile while the rest of the navy-outlined platform remains intact and a muted teal replacement tile waits nearby. Show precise behavior-level judgment, responsibility and repair without smashing or condemning the whole structure. Flat 2D professional psychology editorial style, black and deep navy fine lines, highly simplified adult anatomy, restrained coral, muted teal and soft yellow accents, one clear low-complexity metaphor, firm but non-punitive emotional tone. No text, letters, numbers, logo, watermark, brain, heart, puzzle pieces, courtroom imagery, prison imagery, cinematic lighting, realism, gradients, shadows, detailed setting or complex scene. Original composition, not based on any existing brand artwork.",
+  "size": "1536x682",
+  "quality": "",
+  "output_format": "png",
+  "watermark": false,
+  "n": 1
+}

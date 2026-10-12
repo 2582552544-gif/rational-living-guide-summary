@@ -1,0 +1,12 @@
+{
+  "created_at": "2026-10-12T10:55:04.614431+08:00",
+  "client": "local-openai-compatible",
+  "endpoint": "http://127.0.0.1:8317/v1/images/generations",
+  "model": "gpt-image-2.5-flare",
+  "prompt": "Wide 9:4 minimalist psychology editorial illustration on a single pale warm-gray background with abundant empty space. One simplified faceless adult gently rethreads one loose coral loop back into a long, already woven muted-teal strip; most of the woven strip remains intact behind the hands, making the temporary loose stitch clearly different from starting over. Show one precise action and one physical metaphor only. Flat vector-like 2D editorial illustration, mature and calm rather than cute, thin deep-navy outlines, restrained coral, muted teal, and soft yellow color blocks, highly simplified adult form. No text, numbers, letters, logos, watermarks, progress charts, complex infographic, realistic texture, cinematic landscape, brain, heart, puzzle pieces, reset symbols, dramatic triumph, or copied brand composition.",
+  "size": "1536x682",
+  "quality": "",
+  "output_format": "png",
+  "watermark": false,
+  "n": 1
+}

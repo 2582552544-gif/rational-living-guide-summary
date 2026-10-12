@@ -1,0 +1,12 @@
+{
+  "created_at": "2026-10-12T10:51:24.051303+08:00",
+  "client": "local-openai-compatible",
+  "endpoint": "http://127.0.0.1:8317/v1/images/generations",
+  "model": "gpt-image-2.5-flare",
+  "prompt": "A wide 9:4 minimalist editorial psychology illustration on a single pale warm-gray background. A small coral geometric object has made one visible dent in a simple navy circular form, acknowledging a real external impact. Nearby, a faceless adult gently rotates a transparent teal lens that had been reflecting the dent into a ring of larger repeated distortions; as the lens turns, the reflections stop while the original dent remains. The surreal metaphor is gaining influence over emotional amplification after an event, not pretending the event caused no harm and not controlling feelings like an instant switch. Flat two-dimensional vector illustration, thin deep navy lines, simple geometry, only muted teal and soft coral accents, generous empty space, calm precise non-blaming psychology-article style. No text, letters, numbers, logos, watermarks, gradients, shadows, cinematic lighting, realism, detailed interiors, landscapes, faces, medical icons, or visual clutter.",
+  "size": "1536x682",
+  "quality": "",
+  "output_format": "png",
+  "watermark": false,
+  "n": 1
+}

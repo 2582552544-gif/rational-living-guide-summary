@@ -1,0 +1,12 @@
+{
+  "created_at": "2026-10-12T10:47:20.926245+08:00",
+  "client": "local-openai-compatible",
+  "endpoint": "http://127.0.0.1:8317/v1/images/generations",
+  "model": "gpt-image-2.5-flare",
+  "prompt": "A wide 9:4 minimalist editorial psychology illustration on a single pale sand background. A tiny coral spark sits at one end of a looping geometric conveyor; repeated dark blocks travel around the loop and enlarge the spark into an oversized angular flame shape. A faceless adult calmly lifts one block out of the conveyor, breaking the feedback loop while the original small spark remains. The surreal metaphor is stopping repeated evaluation from continually fueling an already real emotional reaction. Flat two-dimensional vector style, basic geometry, only coral, dark blue-gray, pale sand, and white, generous negative space, clean professional mental-health article composition. No text, letters, numbers, logos, watermarks, gradients, cinematic shadows, landscapes, buildings, photorealism, facial details, or complex machinery.",
+  "size": "1536x682",
+  "quality": "",
+  "output_format": "png",
+  "watermark": false,
+  "n": 1
+}
