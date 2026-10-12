@@ -1,0 +1,13 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+
+site:
+  title: 理性生活指南
+  structure:
+    - type: space
+      key: rational-living-guide
+      title: 理性生活指南
+      path: /
+      default: true
+      content:
+        directory: ./
+        language: zh
