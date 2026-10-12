@@ -1,0 +1,12 @@
+{
+  "created_at": "2026-10-12T10:19:30.103969+08:00",
+  "client": "local-openai-compatible",
+  "endpoint": "http://127.0.0.1:8317/v1/images/generations",
+  "model": "gpt-image-2.5-flare",
+  "prompt": "Wide sophisticated editorial illustration about evidence, reflection and long-term change. A small group of Western adults examine a garden over several seasons using a notebook, measuring tape and simple markers. Some plants thrive, some bend, one regrows after being cut back. In the background a winding path returns near an earlier point but at a higher level, suggesting recurrence without returning to zero. Contemporary European and North American nonfiction book illustration, refined gouache, paper grain and soft screen-print texture, deep navy, muted teal, warm ivory, terracotta and restrained golden yellow. Evidence-minded, humane, quiet optimism. No text, letters, numbers, logos, watermarks, brain icons, charts with writing, glossy 3D, stock art or childish cartoon.",
+  "size": "1536x1024",
+  "quality": "",
+  "output_format": "png",
+  "watermark": false,
+  "n": 1
+}

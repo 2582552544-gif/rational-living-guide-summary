@@ -1,0 +1,12 @@
+{
+  "created_at": "2026-10-12T10:17:19.441845+08:00",
+  "client": "local-openai-compatible",
+  "endpoint": "http://127.0.0.1:8317/v1/images/generations",
+  "model": "gpt-image-2.5-flare",
+  "prompt": "Wide editorial illustration about how interpretation shapes emotion. A Western woman sits at a café table after seeing an ambiguous glance from another person. Between the glance and her emotional reaction floats a translucent prism-like lens that splits one neutral event into several possible meanings, shown through abstract colored pathways rather than words. Her posture shifts from tense on one side to curious and grounded on the other, as if noticing the interpretation step. Contemporary European and North American psychology-book illustration, refined gouache and soft screen-print grain, deep navy, muted teal, warm ivory, terracotta, restrained gold. Human, subtle, non-clinical, no text, no letters, no logos, no watermarks, no brain icons, no speech bubbles containing text, no glossy 3D or stock illustration.",
+  "size": "1536x1024",
+  "quality": "",
+  "output_format": "png",
+  "watermark": false,
+  "n": 1
+}

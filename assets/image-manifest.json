@@ -1,0 +1,47 @@
+{
+  "model": "gpt-image-2.5-flare",
+  "assets": [
+    {
+      "file": "book-cover.png",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 2852045,
+      "sha256": "c1c5fd2b45d17d0833cadccd8998bca7b8c85708111f105c6c3676c7d6675e4e"
+    },
+    {
+      "file": "part-1-emotion-mechanism.png",
+      "width": 1774,
+      "height": 887,
+      "bytes": 2811842,
+      "sha256": "bd99256545d794aa414c146ff81a3faa7732ba3bc41a92783296d33b0d976daf"
+    },
+    {
+      "file": "part-2-belief-loops.png",
+      "width": 1774,
+      "height": 887,
+      "bytes": 2704472,
+      "sha256": "acbe6fc9c7434a300b677da70c09a25a3a88e7f71912bb9845fad2e284ccd065"
+    },
+    {
+      "file": "part-3-action-practice.png",
+      "width": 1774,
+      "height": 887,
+      "bytes": 2967454,
+      "sha256": "8e77fb48646d04008afef44658907df55d2d829167c0daa9a20f3fd4de8a862a"
+    },
+    {
+      "file": "part-4-evidence-long-term.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 3618431,
+      "sha256": "8d90cc8d52f5f19ea753277c29fac698977e8bcb96abf72cceec0eb3fcdee165"
+    },
+    {
+      "file": "site-hero.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2816075,
+      "sha256": "a760043f4d92e2b976fa7a7c1d0b87ec035afd9a13dadfe7023ef2764612723e"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "visual_direction": {
+    "style": "Contemporary European and North American editorial book illustration, refined gouache and soft screen-print texture, psychologically intelligent, warm but unsentimental, premium nonfiction publishing aesthetic",
+    "palette": "deep navy, muted teal, warm ivory, terracotta, restrained golden yellow",
+    "continuity": "same visual language across all images; natural human proportions; diverse Western adults; expressive body language; strong negative space; elegant symbolic environments",
+    "avoid": "no text, no letters, no logos, no watermarks, no medical brain icons, no therapy-couch cliché, no glossy 3D, no corporate stock-photo look, no childish cartoon, no melodrama"
+  },
+  "images": [
+    {
+      "id": "book-cover",
+      "filename": "book-cover.png",
+      "size": "1024x1536",
+      "prompt": "Vertical 2:3 nonfiction psychology book cover illustration. A thoughtful Western adult stands at the threshold between a tangled dim interior corridor and a calm open landscape at dawn. The tangled corridor is made from looping paths and distorted shadows, while the open side has a clear geometric path, distant trees, and soft morning light. The person is not triumphant; they are quietly choosing the next step, holding a small compass at waist level. Contemporary European and North American editorial book illustration, refined gouache and soft screen-print texture, deep navy, muted teal, warm ivory, terracotta and restrained gold. Sophisticated, humane, psychologically intelligent, spacious upper third and lower third for later typography. No text, letters, logos, watermarks, brain icons, therapy couch, glossy 3D, stock-photo style, childish cartoon or melodrama."
+    },
+    {
+      "id": "site-hero",
+      "filename": "site-hero.png",
+      "size": "1536x1024",
+      "prompt": "Wide 3:2 hero illustration for a serious psychology learning guide. A diverse group of three Western adults move through an abstract city-like landscape where one side is crowded with looping staircases, mirrors and echoing thought bubbles represented only as shapes, while the other side opens into a simple navigable path. One person pauses to examine a belief as a transparent geometric lens; another takes a small concrete step; the third writes observations in a notebook. Contemporary European and North American editorial publishing illustration, refined gouache, subtle paper grain and screen-print texture, deep navy, muted teal, warm ivory, terracotta and restrained golden yellow. Calm, mature, evidence-minded, generous negative space on the left for web title overlay. No text, letters, logos, watermarks, brain icon, therapy couch, glossy 3D, corporate stock art or childish cartoon."
+    },
+    {
+      "id": "part-1-emotion-mechanism",
+      "filename": "part-1-emotion-mechanism.png",
+      "size": "1536x1024",
+      "prompt": "Wide editorial illustration about how interpretation shapes emotion. A Western woman sits at a café table after seeing an ambiguous glance from another person. Between the glance and her emotional reaction floats a translucent prism-like lens that splits one neutral event into several possible meanings, shown through abstract colored pathways rather than words. Her posture shifts from tense on one side to curious and grounded on the other, as if noticing the interpretation step. Contemporary European and North American psychology-book illustration, refined gouache and soft screen-print grain, deep navy, muted teal, warm ivory, terracotta, restrained gold. Human, subtle, non-clinical, no text, no letters, no logos, no watermarks, no brain icons, no speech bubbles containing text, no glossy 3D or stock illustration."
+    },
+    {
+      "id": "part-2-belief-loops",
+      "filename": "part-2-belief-loops.png",
+      "size": "1536x1024",
+      "prompt": "Wide premium editorial illustration about self-defeating belief loops. A Western man walks inside a circular track built from repeated everyday actions: checking a phone, avoiding a doorway, apologizing automatically, then returning to the same starting point. At one point he notices a removable link in the circular track and reaches toward it, suggesting a belief can be examined rather than obeyed. Contemporary European and North American nonfiction illustration, refined gouache, subtle paper grain, screen-print texture, deep navy, muted teal, warm ivory, terracotta and restrained golden yellow. Thoughtful and compassionate, not shaming. No text, letters, logos, watermark, brain icon, therapy couch, glossy 3D, corporate stock style or childish cartoon."
+    },
+    {
+      "id": "part-3-action-practice",
+      "filename": "part-3-action-practice.png",
+      "size": "1536x1024",
+      "prompt": "Wide editorial illustration about anxiety, self-discipline and small behavioral practice. A diverse Western adult takes one measured step across a series of modest stepping stones over shallow water; behind them sits a comfortable glowing chair with a phone, ahead is not a heroic summit but an ordinary desk, an open door and a calendar with blank shapes. The emphasis is tolerating short-term discomfort for a valued next action. Contemporary European and North American psychology publishing illustration, refined gouache and soft screen-print texture, deep navy, muted teal, warm ivory, terracotta and restrained gold. Mature, realistic, encouraging without motivational-poster clichés. No text, letters, numbers, logos, watermarks, brain icon, glossy 3D or childish cartoon."
+    },
+    {
+      "id": "part-4-evidence-long-term",
+      "filename": "part-4-evidence-long-term.png",
+      "size": "1536x1024",
+      "prompt": "Wide sophisticated editorial illustration about evidence, reflection and long-term change. A small group of Western adults examine a garden over several seasons using a notebook, measuring tape and simple markers. Some plants thrive, some bend, one regrows after being cut back. In the background a winding path returns near an earlier point but at a higher level, suggesting recurrence without returning to zero. Contemporary European and North American nonfiction book illustration, refined gouache, paper grain and soft screen-print texture, deep navy, muted teal, warm ivory, terracotta and restrained golden yellow. Evidence-minded, humane, quiet optimism. No text, letters, numbers, logos, watermarks, brain icons, charts with writing, glossy 3D, stock art or childish cartoon."
+    }
+  ]
+}

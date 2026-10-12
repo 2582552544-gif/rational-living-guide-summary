@@ -1,0 +1,12 @@
+{
+  "created_at": "2026-10-12T10:16:38.032263+08:00",
+  "client": "local-openai-compatible",
+  "endpoint": "http://127.0.0.1:8317/v1/images/generations",
+  "model": "gpt-image-2.5-flare",
+  "prompt": "Wide 3:2 hero illustration for a serious psychology learning guide. A diverse group of three Western adults move through an abstract city-like landscape where one side is crowded with looping staircases, mirrors and echoing thought bubbles represented only as shapes, while the other side opens into a simple navigable path. One person pauses to examine a belief as a transparent geometric lens; another takes a small concrete step; the third writes observations in a notebook. Contemporary European and North American editorial publishing illustration, refined gouache, subtle paper grain and screen-print texture, deep navy, muted teal, warm ivory, terracotta and restrained golden yellow. Calm, mature, evidence-minded, generous negative space on the left for web title overlay. No text, letters, logos, watermarks, brain icon, therapy couch, glossy 3D, corporate stock art or childish cartoon.",
+  "size": "1536x1024",
+  "quality": "",
+  "output_format": "png",
+  "watermark": false,
+  "n": 1
+}
